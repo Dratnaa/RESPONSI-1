@@ -1,0 +1,16 @@
+Perintah Dasar Terminal
+Linux, MacOS, Unix, dll.
+
+Navigasi
+>cd nama_folder
+ masuk ke dalam folder yang dimaksud
+>cd ..
+ kembali ke direktori / folder sebelumnya
+
+Melihat Isi Direktori / Folder
+>ls
+ menampilkan semua isi yang ada di dalam sebuah direktori / folder
+
+Membuat Direktori / Folder
+>mkdir nama_folder
+ membuat folder baru
