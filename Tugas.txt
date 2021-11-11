@@ -11,3 +11,12 @@ Ketentuan Tugas Responsi 1
 3. Format tugas .pdf
 4. Screenshot step by step + deskripsi diketik
 5. Dikerjakan dilembar tugas
+
+Soal Responsi Sistem Operasi Praktikum
+1. Tunjukkan dengan menggunakan Command Promt (CMD) di Windows, bagaimana cara 
+berikut:
+a) Memindahkan File
+b) Menyalin File dan Folder
+c) Menghapus File dan Folder
+2. Buatlah sebuah repository di Github dengan mana responsi-1. Di dalam repository responsi-1, buatlah 2 branch baru dengan nama yang berbeda. Kemudian, buatlah file untuk masing-masing branch tersebut, edit file tersebut setidaknya 2 kali commit. Lakukan merge branch 
+baru yang terlah di buat ke dalam branch main (utama).
