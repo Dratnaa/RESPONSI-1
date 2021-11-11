@@ -20,3 +20,10 @@ b) Menyalin File dan Folder
 c) Menghapus File dan Folder
 2. Buatlah sebuah repository di Github dengan mana responsi-1. Di dalam repository responsi-1, buatlah 2 branch baru dengan nama yang berbeda. Kemudian, buatlah file untuk masing-masing branch tersebut, edit file tersebut setidaknya 2 kali commit. Lakukan merge branch 
 baru yang terlah di buat ke dalam branch main (utama).
+3. Lakukan clone repository github responsi-1 ke komputer lokal. Lakukan inisialisasi git pada 
+folder hasil clone tersebut dengan menggunakan git bash. Buatlah setidaknya 2 file baru pada 
+git di komputer lokal. Lakukan Commit pada file tersebut. Kemudian lakukan push folder git 
+lokal ke repository responsi-1 di Github.
+4. Sebuah repository mempunyai branch main dan branch BAB-II. Ketika ke dua branch 
+tersebut ingin dimerge ternyata terdapat keterangan Can't automatically merge yang artinya 
+terjadi conflict (masalah), seperti pada gambar. Bagaimana cara mengatasi masalah conflict tersebut
