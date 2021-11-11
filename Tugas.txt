@@ -1,1 +1,6 @@
 Tugas Responsi 1 Sistem Operasi Praktik
+
+Nama          : Dwi Ratna Ningsih    
+NIM           : 5210311147
+Kelas         : IV 
+Program Studi : Sistem Informasi   
